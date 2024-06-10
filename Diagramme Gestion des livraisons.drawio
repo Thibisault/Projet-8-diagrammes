@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T10:44:05.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="A7Bb7A7-Got_5ooWDeJd" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T10:44:29.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cqdrm4fdk8dpsBMaeApH" version="24.5.2" type="github">
   <diagram name="Page-1" id="Q7nIa-rwhlYLwEDB3UGg">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,14 @@
         <mxCell id="1fcCJXUXk4PBJdgC8T8_-11" value="&lt;div&gt;Oui&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="430" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1fcCJXUXk4PBJdgC8T8_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1fcCJXUXk4PBJdgC8T8_-17" target="1fcCJXUXk4PBJdgC8T8_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1fcCJXUXk4PBJdgC8T8_-17" value="Page des livraisons admin (/admin-deliveries)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fcCJXUXk4PBJdgC8T8_-24" value="Voir livraisons en attente&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
