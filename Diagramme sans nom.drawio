@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T10:01:13.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5NtRUqHoUszgD1kNmEEZ" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T10:05:34.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="R91oaKfcoE6qm4SToTET" version="24.5.2" type="github">
   <diagram name="Page-1" id="VLQ1q0vU0PJPjyegYe1O">
-    <mxGraphModel dx="1509" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,34 +31,28 @@
         <mxCell id="swKzofVnpEOuJa9C0XW--6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Soumission du formulaire&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--7" target="swKzofVnpEOuJa9C0XW--8">
+        <mxCell id="swKzofVnpEOuJa9C0XW--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--7" target="swKzofVnpEOuJa9C0XW--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--7" value="Validation des champs&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--8" target="swKzofVnpEOuJa9C0XW--9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--8" target="swKzofVnpEOuJa9C0XW--10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--8" value="&#xa;Champs valides ?  &#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--9" target="swKzofVnpEOuJa9C0XW--1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="80" />
+              <mxPoint x="150" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--9" value="&#xa;Message d&#39;erreur&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--10" target="swKzofVnpEOuJa9C0XW--17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--10" value="&lt;br&gt;Création de compte&amp;nbsp;&lt;div&gt;(UserDao.addUser())&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--11" target="swKzofVnpEOuJa9C0XW--12">
           <mxGeometry relative="1" as="geometry" />
@@ -78,17 +72,11 @@
         <mxCell id="swKzofVnpEOuJa9C0XW--13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Soumission du formulaire&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--14" target="swKzofVnpEOuJa9C0XW--15">
+        <mxCell id="swKzofVnpEOuJa9C0XW--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--14" target="swKzofVnpEOuJa9C0XW--49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--14" value="&amp;nbsp;Vérification des identifiants&lt;div&gt;(email, mot de passe)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--15" target="swKzofVnpEOuJa9C0XW--16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="swKzofVnpEOuJa9C0XW--15" value="&amp;nbsp;Identifiants corrects ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--16" target="swKzofVnpEOuJa9C0XW--11">
           <mxGeometry relative="1" as="geometry">
@@ -99,10 +87,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--16" value="Message d&#39;erreur" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swKzofVnpEOuJa9C0XW--17" value="Utilisateur authentifié&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--36" target="swKzofVnpEOuJa9C0XW--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--36" target="swKzofVnpEOuJa9C0XW--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--36" value="&#xa;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Champs valides ?&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--43" value="Non" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--46" value="Oui" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--49" target="swKzofVnpEOuJa9C0XW--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swKzofVnpEOuJa9C0XW--49" target="swKzofVnpEOuJa9C0XW--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--49" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Identifiants corrects ?&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="swKzofVnpEOuJa9C0XW--54" value="Oui" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
