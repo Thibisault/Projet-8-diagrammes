@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:03:54.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.2" etag="pGhsokXWlun-0eN46E2_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:04:59.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="04Y54j8PZFqEa-wKo82e" version="24.5.2" type="github">
   <diagram name="Page-1" id="9UjAQgi7cJM0eW3oG3f2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JaPUP95JqfUErJ9MkrIG-1" target="JaPUP95JqfUErJ9MkrIG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-1" value="&#xa;Clients (Navigateur web)&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaPUP95JqfUErJ9MkrIG-2" target="JaPUP95JqfUErJ9MkrIG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-2" value="&#xa;Frontend (SPA en Angular)&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaPUP95JqfUErJ9MkrIG-4" target="JaPUP95JqfUErJ9MkrIG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-4" value="Serveur d&#39;applications (Tomcat)&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaPUP95JqfUErJ9MkrIG-6" target="JaPUP95JqfUErJ9MkrIG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-6" value="Backend (Java Servlets)&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaPUP95JqfUErJ9MkrIG-8" target="JaPUP95JqfUErJ9MkrIG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-8" value="&lt;div&gt;Filtre d&#39;authentification&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaPUP95JqfUErJ9MkrIG-10" value="&lt;div&gt;API REST&lt;br/&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
